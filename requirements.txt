@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas>=2.1
+numpy
+openpyxl
+requests
+fpdf2
+beautifulsoup4
+python-calamine
+holidays
